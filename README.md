@@ -1,8 +1,6 @@
 
 # Interview Questions and Answer
 
-This project is no longer actively supported.
-
 > A curated list of lists of technical interview questions.
 
 [What makes for an awesome list?](awesome.md)
