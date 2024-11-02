@@ -1,5 +1,5 @@
 
-# Interview Questions and Answer
+# Interview Questions and Answers
 
 > A curated list of lists of technical interview questions and answer.
 
