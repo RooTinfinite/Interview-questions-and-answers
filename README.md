@@ -1,11 +1,7 @@
 
 # Interview Questions and Answer
 
-> A curated list of lists of technical interview questions.
-
-[What makes for an awesome list?](awesome.md)
-
-Please read the [contribution guidelines](contributing.md) or [creating a list guide](create-list.md) if you want to contribute.
+> A curated list of lists of technical interview questions and answer.
 
 ### Table of Contents
 
