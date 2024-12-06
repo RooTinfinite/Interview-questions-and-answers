@@ -6,7 +6,6 @@
 ### Table of Contents
 
 <div style="display: flex; flex-wrap: wrap;">
-
   <div style="flex: 1; padding: 10px;">
     <h3>Programming Languages/Frameworks/Platforms</h3>
     <ul>
@@ -56,7 +55,6 @@
       <li><a href="#typescript">TypeScript</a></li>
     </ul>
   </div>
-
   <div style="flex: 1; padding: 10px;">
     <h3>Database technologies</h3>
     <ul>
@@ -70,19 +68,16 @@
       <li><a href="#sql">SQL</a></li>
       <li><a href="#sql-lite">SQL Lite</a></li>
     </ul>
-
     <h3>Caching technologies</h3>
     <ul>
       <li><a href="#memcached">Memcached</a></li>
       <li><a href="#redis">Redis</a></li>
     </ul>
-
     <h3>OS</h3>
     <ul>
       <li><a href="#linux">Linux</a></li>
       <li><a href="#windows">Windows</a></li>
     </ul>
-
     <h3>Other Topics</h3>
     <ul>
       <li><a href="#algorithms">Algorithms</a></li>
@@ -96,7 +91,6 @@
       <li><a href="#data-science">Data Science</a></li>
     </ul>
   </div>
-
 </div>
 
 
