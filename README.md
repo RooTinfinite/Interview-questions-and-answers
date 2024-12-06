@@ -5,93 +5,52 @@
 
 ### Table of Contents
 
-<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 10px; min-width: 300px;">
-    <h3>Programming Languages/Frameworks/Platforms</h3>
-    <ul>
-      <li><a href="#android">Android</a></li>
-      <li><a href="#angularjs">AngularJS</a></li>
-      <li><a href="#angular">Angular</a></li>
-      <li><a href="#backbonejs">BackboneJS</a></li>
-      <li><a href="#c++">C++</a></li>
-      <li><a href="#c">C</a></li>
-      <li><a href="#c♯">C♯</a></li>
-      <li><a href="#net">.NET</a></li>
-      <li><a href="#clojure">Clojure</a></li>
-      <li><a href="#css">CSS</a></li>
-      <li><a href="#cucumber">Cucumber</a></li>
-      <li><a href="#django">Django</a></li>
-      <li><a href="#docker">Docker</a></li>
-      <li><a href="#elastic">Elastic</a></li>
-      <li><a href="#emberjs">EmberJS</a></li>
-      <li><a href="#erlang">Erlang</a></li>
-      <li><a href="#golang">Golang</a></li>
-      <li><a href="#graphql">GraphQl</a></li>
-      <li><a href="#html">HTML</a></li>
-      <li><a href="#ionic">Ionic</a></li>
-      <li><a href="#ios">iOS</a></li>
-      <li><a href="#java">Java</a></li>
-      <li><a href="#javascript">JavaScript</a></li>
-      <li><a href="#jquery">jQuery</a></li>
-      <li><a href="#front-end-build-tools">Front-end build tools</a></li>
-      <li><a href="#knockoutjs">KnockoutJS</a></li>
-      <li><a href="#less">Less</a></li>
-      <li><a href="#lisp">Lisp</a></li>
-      <li><a href="#nodejs">NodeJS</a></li>
-      <li><a href="#objective-c">Objective-C</a></li>
-      <li><a href="#php">PHP</a></li>
-      <li><a href="#python">Python</a></li>
-      <li><a href="#reactjs">ReactJS</a></li>
-      <li><a href="#ruby-on-rails">Rails</a></li>
-      <li><a href="#ruby">Ruby</a></li>
-      <li><a href="#rust">Rust</a></li>
-      <li><a href="#sass">Sass</a></li>
-      <li><a href="#scala">Scala</a></li>
-      <li><a href="#shell">Shell</a></li>
-      <li><a href="#spark">Spark</a></li>
-      <li><a href="#swift">Swift</a></li>
-      <li><a href="#vuejs">Vue.js</a></li>
-      <li><a href="#wordpress">Wordpress</a></li>
-      <li><a href="#typescript">TypeScript</a></li>
-    </ul>
-  </div>
-  <div style="flex: 1; padding: 10px; min-width: 300px;">
-    <h3>Database technologies</h3>
-    <ul>
-      <li><a href="#cassandra">Cassandra</a></li>
-      <li><a href="#microsoft-access">Microsoft Access</a></li>
-      <li><a href="#mongodb">MongoDB</a></li>
-      <li><a href="#mysql">MySQL</a></li>
-      <li><a href="#neo4j">Neo4j</a></li>
-      <li><a href="#oracle">Oracle</a></li>
-      <li><a href="#postgres">Postgres</a></li>
-      <li><a href="#sql">SQL</a></li>
-      <li><a href="#sql-lite">SQL Lite</a></li>
-    </ul>
-    <h3>Caching technologies</h3>
-    <ul>
-      <li><a href="#memcached">Memcached</a></li>
-      <li><a href="#redis">Redis</a></li>
-    </ul>
-    <h3>OS</h3>
-    <ul>
-      <li><a href="#linux">Linux</a></li>
-      <li><a href="#windows">Windows</a></li>
-    </ul>
-    <h3>Other Topics</h3>
-    <ul>
-      <li><a href="#algorithms">Algorithms</a></li>
-      <li><a href="#blockchain">Blockchain</a></li>
-      <li><a href="#coding-exercises">Coding exercises</a></li>
-      <li><a href="#comprehensive-lists">Comprehensive lists</a></li>
-      <li><a href="#design-patterns">Design patterns</a></li>
-      <li><a href="#data-structures">Data structures</a></li>
-      <li><a href="#networks">Networks</a></li>
-      <li><a href="#security">Security</a></li>
-      <li><a href="#data-science">Data Science</a></li>
-    </ul>
-  </div>
-</div>
+| Programming Languages/Frameworks/Platforms | Database technologies, Caching technologies, OS, Other Topics |
+|---------------------------------------------|--------------------------------------------------------------|
+| - [Android](#android)                      | - [Cassandra](#cassandra)                                   |
+| - [AngularJS](#angularjs)                  | - [Microsoft Access](#microsoft-access)                     |
+| - [Angular](#angular)                      | - [MongoDB](#mongodb)                                       |
+| - [BackboneJS](#backbonejs)                | - [MySQL](#mysql)                                           |
+| - [C++](#c++)                              | - [Neo4j](#neo4j)                                          |
+| - [C](#c)                                  | - [Oracle](#oracle)                                        |
+| - [C♯](#c♯)                                | - [Postgres](#postgres)                                    |
+| - [.NET](#net)                            | - [SQL](#sql)                                              |
+| - [Clojure](#clojure)                      | - [SQL Lite](#sql-lite)                                    |
+| - [CSS](#css)                              | - [Memcached](#memcached)                                  |
+| - [Cucumber](#cucumber)                    | - [Redis](#redis)                                          |
+| - [Django](#django)                        | - [Linux](#linux)                                          |
+| - [Docker](#docker)                        | - [Windows](#windows)                                      |
+| - [Elastic](#elastic)                      | - [Algorithms](#algorithms)                                |
+| - [EmberJS](#emberjs)                      | - [Blockchain](#blockchain)                                |
+| - [Erlang](#erlang)                        | - [Coding exercises](#coding-exercises)                    |
+| - [Golang](#golang)                        | - [Comprehensive lists](#comprehensive-lists)              |
+| - [GraphQl](#graphql)                      | - [Design patterns](#design-patterns)                      |
+| - [HTML](#html)                            | - [Data structures](#data-structures)                      |
+| - [Ionic](#ionic)                          | - [Networks](#networks)                                    |
+| - [iOS](#ios)                              | - [Security](#security)                                    |
+| - [Java](#java)                            | - [Data Science](#data-science)                            |
+| - [JavaScript](#javascript)                |                                                              |
+| - [jQuery](#jquery)                        |                                                              |
+| - [Front-end build tools](#front-end-build-tools) |                                                  |
+| - [KnockoutJS](#knockoutjs)                |                                                              |
+| - [Less](#less)                            |                                                              |
+| - [Lisp](#lisp)                            |                                                              |
+| - [NodeJS](#nodejs)                        |                                                              |
+| - [Objective-C](#objective-c)              |                                                              |
+| - [PHP](#php)                              |                                                              |
+| - [Python](#python)                        |                                                              |
+| - [ReactJS](#reactjs)                      |                                                              |
+| - [Ruby on Rails](#ruby-on-rails)          |                                                              |
+| - [Ruby](#ruby)                            |                                                              |
+| - [Rust](#rust)                            |                                                              |
+| - [Sass](#sass)                            |                                                              |
+| - [Scala](#scala)                          |                                                              |
+| - [Shell](#shell)                          |                                                              |
+| - [Spark](#spark)                          |                                                              |
+| - [Swift](#swift)                          |                                                              |
+| - [Vue.js](#vuejs)                         |                                                              |
+| - [WordPress](#wordpress)                  |                                                              |
+| - [TypeScript](#typescript)                |                                                              |
 
 
 
