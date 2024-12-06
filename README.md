@@ -5,8 +5,8 @@
 
 ### Table of Contents
 
-<div style="display: flex; flex-wrap: wrap;">
-  <div style="flex: 1; padding: 10px;">
+<div style="display: flex; flex-direction: row; flex-wrap: wrap;">
+  <div style="flex: 1; padding: 10px; min-width: 300px;">
     <h3>Programming Languages/Frameworks/Platforms</h3>
     <ul>
       <li><a href="#android">Android</a></li>
@@ -55,7 +55,7 @@
       <li><a href="#typescript">TypeScript</a></li>
     </ul>
   </div>
-  <div style="flex: 1; padding: 10px;">
+  <div style="flex: 1; padding: 10px; min-width: 300px;">
     <h3>Database technologies</h3>
     <ul>
       <li><a href="#cassandra">Cassandra</a></li>
