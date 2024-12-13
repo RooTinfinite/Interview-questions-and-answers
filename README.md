@@ -3,7 +3,7 @@
 
 > A curated list of lists of technical interview questions and answer.
 
-### Programming Languages/Frameworks/Platforms
+### 1. Programming Languages/Frameworks/Platforms
 <details open>
 <summary>
 Hide/Show  
@@ -56,7 +56,7 @@ Hide/Show
   - [TypeScript](#typescript)
 </details>
 
-### Database technologies
+### 2. Database technologies
 <details open>
 <summary>
 Hide/Show  
@@ -74,7 +74,7 @@ Hide/Show
   - [SQL Lite](#sql-lite)
 </details>
 
-### Caching technologies
+### 3. Caching technologies
 <details open>
 <summary>
 Hide/Show  
@@ -85,7 +85,7 @@ Hide/Show
   - [Redis](#redis)
 </details>
 
-### Other technologies
+### 4. Other technologies
 <details open>
 <summary>
 Hide/Show  
