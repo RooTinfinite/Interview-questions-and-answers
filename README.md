@@ -72,20 +72,12 @@ Hide/Show
   - [Postgres](#postgres)
   - [SQL](#sql)
   - [SQL Lite](#sql-lite)
-</details>
-
-### 3. Caching technologies
-<details open>
-<summary>
-Hide/Show  
-</summary>
-  
 - [Caching technologies](#caching-technologies)
   - [Memcached](#memcached)
   - [Redis](#redis)
 </details>
 
-### 4. Other technologies
+### 3. Other technologies
 <details open>
 <summary>
 Hide/Show  
@@ -558,7 +550,7 @@ Hide/Show
 * [SQL Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of SQL](http://www.tutorialspoint.com/sql/sql_interview_questions.htm)
 * [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
 
-### SQLite
+### SQL Lite
 
 * [Top 20 SQLITE  Interview Questions from Career Guru](http://career.guru99.com/top-20-sql-lite-interview-questions/)
 
