@@ -3,8 +3,12 @@
 
 > A curated list of lists of technical interview questions and answer.
 
-### Table of Contents
-
+### 1. Programming Languages/Frameworks/Platforms
+<details open>
+<summary>
+Hide/Show  
+</summary>
+  
 - [Programming Languages/Frameworks/Platforms](#programming-languagesframeworksplatforms)
   - [Android](#android)
   - [AngularJS](#angularjs)
@@ -50,7 +54,14 @@
   - [Vue.js](#vuejs)
   - [Wordpress](#wordpress)
   - [TypeScript](#typescript)
+</details>
 
+### 2. Database technologies
+<details open>
+<summary>
+Hide/Show  
+</summary>
+  
 - [Database technologies](#database-technologies)
   - [Cassandra](#cassandra)
   - [Microsoft Access](#microsoft-access)
@@ -64,7 +75,14 @@
 - [Caching technologies](#caching-technologies)
   - [Memcached](#memcached)
   - [Redis](#redis)
+</details>
 
+### 3. Other technologies
+<details open>
+<summary>
+Hide/Show  
+</summary>
+  
 - [OS](#os)
   - [Linux](#linux)
   - [Windows](#windows)
@@ -77,6 +95,8 @@
 - [Networks](#networks)
 - [Security](#security)
 - [Data Science](#data-science)
+</details>
+
 
 ## Programming Languages/Frameworks/Platforms
 
@@ -530,7 +550,7 @@
 * [SQL Interview Questions that have been designed specially to get you acquainted with the nature of questions you may encounter during your interview for the subject of SQL](http://www.tutorialspoint.com/sql/sql_interview_questions.htm)
 * [SQL Interview Questions CHEAT SHEET](https://www.interviewbit.com/sql-interview-questions/)
 
-### SQLite
+### SQL Lite
 
 * [Top 20 SQLITE  Interview Questions from Career Guru](http://career.guru99.com/top-20-sql-lite-interview-questions/)
 
